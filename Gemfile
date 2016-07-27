@@ -31,6 +31,7 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.0'
+gem 'masonry-rails', '~> 0.2.4'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
